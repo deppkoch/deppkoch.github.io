@@ -7,7 +7,7 @@ Start To Finish: 1,5 Stunden
 
 Einkaufsliste:
 
-- 240 g Guinness (Rest ist für dich)
+- 240 g Guinness (Rest der Dose ist für dich)
   
 - 140 g Butter
   
