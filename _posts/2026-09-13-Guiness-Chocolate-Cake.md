@@ -1,11 +1,4 @@
-## This is my first blog post
-Guiness Chocolate Cake
+## Guiness Chocolate Cake
 
-
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
-
-Test Test
+Aktive Arbeitszeit: ca. 20-30 Minuten
+Start To Finish: 1,5 Stunden
