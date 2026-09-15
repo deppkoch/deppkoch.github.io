@@ -1,6 +1,6 @@
 ## Carrot Cake mit Rum-Frosting
 
-Deppenrating: 1/5 (echt easy)
+Deppenrating: 2/5 (schon easy)
 
 Aktive Arbeitszeit: 30 Minuten
 
