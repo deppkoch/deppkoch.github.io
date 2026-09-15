@@ -14,7 +14,7 @@ description: "Die besten Rezepthits und Crowd-Pleaser der letzten 10 Jahre" # Th
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: daviddarnes/alembic@main
+theme: minima
 
 rss: rss
 
